@@ -23,7 +23,9 @@ Plugin:
 
 ```shell
 asdf plugin add zellij
+
 # or
+
 asdf plugin add zellij https://github.com/volf52/asdf-zellij.git
 ```
 
